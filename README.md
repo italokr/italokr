@@ -1,4 +1,9 @@
 ## Hi there 👋
+Front-End Developer
+
+## 🛠️ Technologies & Tools
+
+<img src="https://skillicons.dev/icons?i=js,html,css" />
 
 <!--
 **italokr/italokr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
