@@ -1,5 +1,10 @@
 'Hello World' 👋
 
+<a href="www.linkedin.com/in/italo-kairon" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
 <img src="https://skillicons.dev/icons?i=js,html,css" />
 
 <!--
