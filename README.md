@@ -1,7 +1,4 @@
-## Hi there 👋
-Front-End Developer
-
-## 🛠️ Technologies & Tools
+'Hello World' 👋
 
 <img src="https://skillicons.dev/icons?i=js,html,css" />
 
